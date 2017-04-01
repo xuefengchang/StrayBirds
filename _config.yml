@@ -65,8 +65,8 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
-    email: xkzbeta@outlook.comment
+    name: xuefengchang
+    email: xuefengchang@outlook.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
     detailIntro:
@@ -115,8 +115,8 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
-baseurl: /StrayBirds
+username: xuefengchang
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
